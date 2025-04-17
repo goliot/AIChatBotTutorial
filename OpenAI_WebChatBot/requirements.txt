@@ -1,4 +1,7 @@
 streamlit==1.32.0
 openai==1.12.0
 python-dotenv==1.0.1
-pygame==2.5.2 
+langchain
+langchain-community
+openai
+faiss-cpu
